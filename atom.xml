@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title></title>
+    <link rel="self" type="application/atom+xml" href="https://clovernotes.co/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://clovernotes.co/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-08T00:00:00+00:00</updated>
+    <id>https://clovernotes.co/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Neovim and Windows</title>
+        <published>2025-03-08T00:00:00+00:00</published>
+        <updated>2025-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://clovernotes.co/blogs/neovim-and-windows/"/>
+        <id>https://clovernotes.co/blogs/neovim-and-windows/</id>
+        
+        <content type="html" xml:base="https://clovernotes.co/blogs/neovim-and-windows/">&lt;h1 id=&quot;preface&quot;&gt;PREFACE&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Portfolio</title>
+        <published>2025-03-08T00:00:00+00:00</published>
+        <updated>2025-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://clovernotes.co/portfolio/"/>
+        <id>https://clovernotes.co/portfolio/</id>
+        
+        <content type="html" xml:base="https://clovernotes.co/portfolio/">&lt;h2 id=&quot;ali-hussain-abid&quot;&gt;ALI HUSSAIN ABID&lt;&#x2F;h2&gt;
+&lt;p&gt;contact: &lt;a href=&quot;mailto:ali.hussain.abid.246@outlook.com&quot;&gt;ali.hussain.abid.246@outlook.com&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;professional-experience&quot;&gt;PROFESSIONAL EXPERIENCE&lt;&#x2F;h3&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;join-app-studio&quot;&gt;&lt;strong&gt;JOIN APP STUDIO&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;em&gt;Islamabad, Pakistan&lt;&#x2F;em&gt; | (Mar 2022 - Jul 2022)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed systems, features and strategies to push Game Quality Standards.&lt;&#x2F;li&gt;
+&lt;li&gt;Streamlined and collaborated with relevant teams for information exchange.&lt;&#x2F;li&gt;
+&lt;li&gt;Maintained and Managed Game Assets for production.&lt;&#x2F;li&gt;
+&lt;li&gt;Designing Levels, Designing gameplay elements and Player Progression.&lt;&#x2F;li&gt;
+&lt;li&gt;Market Analysis for Play Store Games.&lt;&#x2F;li&gt;
+&lt;li&gt;Designed and Documented Gameplay Systems, Features and Monetization Strategy.&lt;&#x2F;li&gt;
+&lt;li&gt;Collaborated with QA Team to streamline project testing and verifying faithfulness of product to its Game Bible&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;gaminator-studio&quot;&gt;&lt;strong&gt;GAMINATOR STUDIO&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;em&gt;Lahore, Pakistan&lt;&#x2F;em&gt; | (Mar 2022 - Jul 2022)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and drove the vision and implementation of features and game systems, successfully creating a unique Hunting game that mixes elements of Card games in its core gameplay loop.&lt;&#x2F;li&gt;
+&lt;li&gt;Worked on Game Balancing and tuning with player-data and tested data gathered over the life of a project.&lt;&#x2F;li&gt;
+&lt;li&gt;Successfully formulating and delivering decades old yet popular genre Arcade Fighting into mobile space.&lt;&#x2F;li&gt;
+&lt;li&gt;Reimagined Beat’em Up formula for mobile creating an engaging gameplay while keeping the essence of this genre.&lt;&#x2F;li&gt;
+&lt;li&gt;Creating scenarios to keep multiple different types of players engaged and satisfied.&lt;&#x2F;li&gt;
+&lt;li&gt;Created over 100 levels in a single game.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;technophile-solutions&quot;&gt;&lt;strong&gt;TECHNOPHILE SOLUTIONS&lt;&#x2F;strong&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;em&gt;Rawalpindi, Pakistan&lt;&#x2F;em&gt; | (Jan 2019 - Aug 2019)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked on a sandboxing game, which includes vehicles of different types i.e bicycle to car and aeroplane to rockets.&lt;&#x2F;li&gt;
+&lt;li&gt;Improved game’s rendering performance for the major map of the game, resulting in a whopping 80% improvement in FPS. (from 6-8 FPS to Solid 30 FPS)&lt;&#x2F;li&gt;
+&lt;li&gt;Developed Quest and collaborated with Dialogue Manager for the purpose of giving more control to Game Designer in narrative building.&lt;&#x2F;li&gt;
+&lt;li&gt;Used Profiler to improve the game&#x27;s overall performance by identifying and removing hiccups and memory leaks.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;skills&quot;&gt;SKILLS&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Game Design (Economy Design&#x2F;Gameplay Design&#x2F;Level Design)&lt;&#x2F;li&gt;
+&lt;li&gt;MS Office&#x2F;Google - Excel, Word&lt;&#x2F;li&gt;
+&lt;li&gt;Game Engines: Unity 3D &amp;amp; Unreal Engine&lt;&#x2F;li&gt;
+&lt;li&gt;Market Analysis&lt;&#x2F;li&gt;
+&lt;li&gt;Project Management&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
